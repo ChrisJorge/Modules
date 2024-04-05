@@ -6,7 +6,7 @@ export default class Employee {
     this.email = email;
     this.phone = phone;
   }
-}
+} 
 // ----------------------------------------[CLASSES]
 export function getName(user) {
   console.log(`Good Evening Welcome to TechBiz. My name is ${user.name}`);

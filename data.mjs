@@ -8,6 +8,7 @@ console.log(getPhone(testEmployee));
 console.log(getEmail(testEmployee));
 // ----------------------------------------[INSTANCES]
 fetchMe();
+
 // grabSprints()
 // ----------------------------------------[Initialized_Funcs()]
 

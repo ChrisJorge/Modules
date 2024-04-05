@@ -4,7 +4,7 @@ export async function getPhotos(choice) {
     fetch("https://jsonplaceholder.typicode.com/photos")
       .then((response) => response.json())
       .then((json) => {
-
+ 
         if(choice === 'one')
         {
             const random = () => {
